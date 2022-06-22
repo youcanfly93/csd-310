@@ -1,6 +1,6 @@
 #Joel Mardock
 #06-19-2022
-#Module 5.2 Assignment
+#Module 5.2 Assignment: Pytech: Collection Creation
 
 '''This file will connect to a MongoDB database and output the containing folders'''
 
