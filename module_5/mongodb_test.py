@@ -14,3 +14,4 @@ client = pymongo.MongoClient(conn_str, tlsCAFile=certifi.where())
 db = client.pytech
 
 print(db.list_collection_names())
+
